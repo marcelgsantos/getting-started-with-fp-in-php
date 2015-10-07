@@ -41,7 +41,7 @@ A collection of resources to introduce functional programming for PHP programmer
 ## Slides
 *Slides about functional programming in PHP.*
 
-* [Functional PHP](https://www.palantir.net/presentations/phptek14-functional-php/#/) - Fantastic talk about functional programming in PHP..
+* [Functional PHP](https://www.palantir.net/presentations/phptek14-functional-php/#/) - Fantastic talk about functional programming in PHP.
 
 ## Libraries
 *Libraries about functional programming in PHP and related concepts.*
