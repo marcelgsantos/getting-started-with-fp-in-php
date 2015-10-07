@@ -21,6 +21,8 @@ A collection of resources to introduce functional programming for PHP programmer
 * [Currying vs Partial Application](http://allthingsphp.blogspot.com.br/2012/02/currying-vs-partial-application.html) - Tutorial that explains the difference between currying and partials.
 * [Using Partial Application in PHP](http://eddmann.com/posts/using-partial-application-in-php/) - Tutorial about partial functions in PHP.
 * [Memoization or function cache](https://www.simonholywell.com/post/2015/05/memoization-or-function-cache/) - Tutorial about memoization in PHP.
+* [Taking Monads to OOP PHP](http://blog.ircmaxell.com/2013/07/taking-monads-to-oop-php.html) - Tutorial about monads in PHP.
+* [Functional programming with Monads in PHP](http://the-matrix.github.io/php/functional-programming-monads/) - Another tutorial about monads in PHP.
 * [PHP Functions](http://php.net/manual/en/language.functions.php) - Documentation of how functions work in PHP.
 * [Anonymous Functions](http://php.net/manual/en/functions.anonymous.php) - Documentation of how anonymous functions works in PHP.
 * [Array Map](http://php.net/manual/en/function.array-map.php), [Array Filter](http://php.net/manual/en/function.array-filter.php) e [Array Reduce](http://php.net/manual/en/function.array-reduce.php) - Documentation about map, filter and reduce functions in PHP.
@@ -34,6 +36,7 @@ A collection of resources to introduce functional programming for PHP programmer
 *Videos about functional programming in PHP.*
 
 * [Functional PHP by Larry Garfield](https://www.youtube.com/watch?v=M3_xnTK6-pA) - Fantastic talk about functional programming in PHP.
+* [Go Mad for Monads](https://www.youtube.com/watch?v=F5fUgXFSH0Q) - Talk about monads in PHP.
 
 ## Slides
 *Slides about functional programming in PHP.*
@@ -47,6 +50,8 @@ A collection of resources to introduce functional programming for PHP programmer
 * [Functional PHP](https://github.com/lstrojny/functional-php)
 * [Underscore.php](https://github.com/Anahkiasen/underscore-php)
 * [Underscore.php](https://github.com/brianhaveri/Underscore.php)
+* [php-functional](https://github.com/widmogrod/php-functional)
+* [monad-php](https://github.com/ircmaxell/monad-php)
 * [Partial](https://github.com/reactphp/partial)
 * [Promise](https://github.com/reactphp/promise)
 * [Compose](https://github.com/igorw/compose)
