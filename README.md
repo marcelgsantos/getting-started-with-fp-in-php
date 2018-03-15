@@ -57,6 +57,7 @@ A collection of resources to introduce functional programming for PHP programmer
 * [Compose](https://github.com/igorw/compose)
 * [transducers-php](https://github.com/mtdowling/transducers.php)
 * [Pramda](https://github.com/kapolos/pramda)
+* [Prelude](https://github.com/sergiors/prelude)
 
 ## Other Languages
 *Some fantastic functional programming languages that you should learn.*
